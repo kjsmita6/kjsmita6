@@ -34,7 +34,7 @@ I have used the following development tools:
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kjsmita6&count_private=true&show_icons=true)
 
-[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=kjsmita6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=kjsmita6&hide=racket)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact Information
 You may email me at my work email, kysmith@tibco.com, or my personal email, smith.kyle1734@gmail.com.
