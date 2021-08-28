@@ -6,14 +6,17 @@ This page is meant to be a more visual copy of my resume. If you would like the 
 
 ## Experience
 ### Software Engineer (June 2021 - Present)
-![](/images/tibco.png)
-*TIBCO Software, Inc.*
+<img src=https://raw.githubusercontent.com/kjsmita6/kjsmita6/master/tibco.png width="64" height="64"/>
+
+_TIBCO Software, Inc._
+
 * Work with a small team of developers on an Eclipse Rich Client Platform application for [TIBCO Streaming](https://www.tibco.com/products/tibco-streaming) 
 * Utilize Atlassian poroducts such as Jira (issue tracking), Confluence (knowledge sharing and documentation), and Crucible (code reviews)
 
 ## Education
 ### Bachelor of Science (Computer Science)
-![](/images/wpi.png)
+<img src=https://raw.githubusercontent.com/kjsmita6/kjsmita6/master/wpi.png width="64" height="64"/>
+
 *Worcester Polytechnic Institute (WPI)*
 
 ## Technical Skills
