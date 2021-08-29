@@ -1,8 +1,8 @@
 ## Hi there 👋, welcome to my profile
 
-I'm Kyle Smith, currently working as a software engineer at [TIBCO Software](https://tibco.com) in the Streaming Analytics Research and Development group. We have some public repos [on GitHub](https://github.com/TIBCOSoftware), but most things are private (as expected). My personal page contains many personal projects which I have worked on, as well as my portfolio of all the code I worked on in college ([link here](https://github.com/kjsmita6/WPICode)).
+I'm Kyle, currently working as a software engineer at [TIBCO Software](https://tibco.com) in the Streaming Analytics Research and Development group. We have some public repos [on GitHub](https://github.com/TIBCOSoftware), but most things are private. My personal page contains many personal projects which I have worked on, as well as my portfolio of all the code I worked on in college ([link here](https://github.com/kjsmita6/WPICode)).
 
-This page is meant to be a more visual copy of my resume. If you would like the normal resume, please contact me using the information below.
+This page is meant to be a more visual copy of my resume. If you would like my normal resume, please contact me using the information below.
 
 ## Experience
 ### Software Engineer (June 2021 - Present)
@@ -32,7 +32,7 @@ I have some experience with the following languages:
 <br><br>
 I have used the following development tools:
 
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg title="Git" width="64" height=64/> <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/256px-Gnu-nano.svg.png title="Nano" width="64" height="64"/> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/subversion/subversion-original.svg title="Subversion" width="64" height="64"/> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg title="Visual Studio" width="64" height="64"/> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg title="Visual Studio Code" width="64" height="64"/>
+<img src=https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png title="Eclipse" width=64 height=64/> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg title="Git" width="64" height=64/> <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/256px-Gnu-nano.svg.png title="Nano" width="64" height="64"/> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/subversion/subversion-original.svg title="Subversion" width="64" height="64"/> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg title="Visual Studio" width="64" height="64"/> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg title="Visual Studio Code" width="64" height="64"/>
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kjsmita6&count_private=true&show_icons=true)
