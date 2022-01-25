@@ -11,8 +11,9 @@ This page is meant to be a more visual copy of my resume. If you would like my n
 _TIBCO Software, Inc._
 
 * Work with a small team of developers on an Eclipse Rich Client Platform application for [TIBCO Streaming](https://www.tibco.com/products/tibco-streaming) 
-* Utilize Atlassian poroducts such as Jira (issue tracking), Confluence (knowledge sharing and documentation), and Crucible (code reviews)
+* Utilize Atlassian products such as Jira (issue tracking), Confluence (knowledge sharing and documentation), and Crucible (code reviews)
 * Moderator for [TIBCO Streaming Community](https://github.com/TIBCOSoftware/tibco-streaming-community), a repository with community-made samples for TIBCO Streaming
+* Collaborate with peers from other teams for large feature implementations
 
 ## Education
 ### Bachelor of Science (Computer Science)
